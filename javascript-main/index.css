@@ -1,0 +1,21 @@
+body{
+    background-color: #131415;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.nueva-clase {
+    width: 200px;
+    height: 200px;
+    background-color: white;
+}
+.color-azul {
+    color: blue;
+}
+
+.hidden{
+    display: none;
+}
